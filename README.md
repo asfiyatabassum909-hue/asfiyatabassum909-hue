@@ -42,4 +42,7 @@ Data Analyst / BI Analyst roles — work centered on data modeling, dashboards, 
 
 ## 🤝 Connect with Me
 **LinkedIn:** [www.linkedin.com/in/asfiya-tabassum-554a3035b]
+
 **Email:** [asfiyatabassum909@gmail.com]
+
+([github.com/asfiyatabassum909-hue](https://github.com/asfiyatabassum909-hue)).
