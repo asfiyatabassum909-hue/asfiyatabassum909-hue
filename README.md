@@ -15,7 +15,6 @@ I'm currently building my skills in data analytics while bringing my background 
 ## 📂 Projects Overview
 
 * **[Barcelona Airbnb Market Analysis](https://github.com/asfiyatabassum909-hue/YOUR-REPO-NAME)** | *Power BI, Power Query, DAX*
-  Cleaned and modelled 15,293 listings and built a one-page dashboard. Entire homes earn ~5.7x more than private rooms, and the top 10 hosts control 18% of estimated revenue.
 * **[Brazilian E-Commerce Analysis](https://github.com/asfiyatabassum909-hue/olist_csv)** | *PostgreSQL, SQL, Power BI*
 * **[Dubai Real Estate Sales Dashboard](https://github.com/asfiyatabassum909-hue/Dubai-Real-Estate-20-23)** | *Excel, Pivot Tables, Dashboard*
 * **[Data Analyst Job Market Analysis](https://github.com/asfiyatabassum909-hue/SQL-Project)** | *PostgreSQL, SQL*
