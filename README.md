@@ -9,22 +9,22 @@ I'm currently building my skills in data analytics while bringing my background 
 
 ## 🛠️ Tools & Technologies
 * **Languages & Databases:** SQL, PostgreSQL
-* **Visualization & Reporting:** Power BI, Excel (Pivot Tables, Power Query, VLOOKUP)
+* **Visualization & Reporting:** Power BI (DAX, Power Query), Excel (Pivot Tables, Power Query, VLOOKUP)
 * **Tools & Workflow:** Git, GitHub
 
 ## 📂 Projects Overview
 
+* **[Barcelona Airbnb Market Analysis](https://github.com/asfiyatabassum909-hue/YOUR-REPO-NAME)** | *Power BI, Power Query, DAX*
+  Cleaned and modelled 15,293 listings and built a one-page dashboard. Entire homes earn ~5.7x more than private rooms, and the top 10 hosts control 18% of estimated revenue.
+* **[Brazilian E-Commerce Analysis](https://github.com/asfiyatabassum909-hue/olist_csv)** | *PostgreSQL, SQL, Power BI*
 * **[Dubai Real Estate Sales Dashboard](https://github.com/asfiyatabassum909-hue/Dubai-Real-Estate-20-23)** | *Excel, Pivot Tables, Dashboard*
 * **[Data Analyst Job Market Analysis](https://github.com/asfiyatabassum909-hue/SQL-Project)** | *PostgreSQL, SQL*
-* **[Brazilian E-Commerce Analysis](https://github.com/asfiyatabassum909-hue/olist_csv)** | *PostgreSQL, SQL, Power BI*
 
 ## 🎯 What I'm Looking For
 
 Data Analyst / BI Analyst roles — work centered on data modeling, dashboards, and business-question-driven analysis.
 
 ## 🤝 Connect with Me
-**LinkedIn:** [www.linkedin.com/in/asfiya-tabassum-554a3035b]
+**LinkedIn:** [linkedin.com/in/asfiya-tabassum-554a3035b](https://www.linkedin.com/in/asfiya-tabassum-554a3035b)
 
-**Email:** [asfiyatabassum909@gmail.com]
-
-([github.com/asfiyatabassum909-hue](https://github.com/asfiyatabassum909-hue)).
+**Email:** [asfiyatabassum909@gmail.com](mailto:asfiyatabassum909@gmail.com)
